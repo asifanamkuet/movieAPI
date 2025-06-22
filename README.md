@@ -13,8 +13,8 @@ This is a PHP script that uses cURL to send a search request to an external API,
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/YOUR_USERNAME/php-curl-example.git
-    cd php-curl-example
+    git clone https://github.com/asifanamkuet/movieAPI.git
+    cd movieAPI
     ```
 
 2. Create a new PHP file in your project directory, e.g., `search-api.php`.
